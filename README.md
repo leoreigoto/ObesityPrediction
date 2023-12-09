@@ -8,9 +8,6 @@ Develop a toy machine learning model to predict levels of obesity based on a pub
 
 Python, machine learning, classification task
 
-The repository contains the dataset, the code and a technical article.
-![image](https://github.com/leoreigoto/leoreigoto.github.io/assets/48571786/c8214f90-ed25-4df0-9576-3e9ba2930a6e)
-
 <b>Issues in the dataset:</b>
 
 The dataset utilizes the SMOTE technique to augment its data and doesnt share the original data. The SMOTE process was applied prior to dividing the data into training and test sets. This renders the dataset unreliable for practical use as it leads to <b> data leak </b>.
